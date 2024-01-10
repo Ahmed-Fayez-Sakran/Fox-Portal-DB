@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"3f75d2b0048041ec800331092c13dffe","collectionName":"Bus_Trip_Full_Day_Package_Log","type":"collection"}

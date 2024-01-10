@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"012c4dd2557f420eb9112dbbe809a6ae","collectionName":"Airline_LKP","type":"collection"}

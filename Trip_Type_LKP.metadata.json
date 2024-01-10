@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"b65581caa5be4b4f941ea19a96c645c6","collectionName":"Trip_Type_LKP","type":"collection"}
